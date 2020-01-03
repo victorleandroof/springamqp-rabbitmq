@@ -1,0 +1,8 @@
+#rabbitmq
+mq:
+   host: skunk.rmq.cloudamqp.com
+   port: 5672
+   username: skotqtqd
+   password: a3PSyKlVy8VHLECyklpHQw_4BQ_t57Wu
+   queue: hello
+   virtualHost: skotqtqd

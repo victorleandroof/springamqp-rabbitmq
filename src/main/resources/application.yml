@@ -1,0 +1,8 @@
+#rabbitmq
+mq:
+   host: ${MQ.HOST}
+   port: ${MQ.PORT}
+   username: ${MQ.USERNAME}
+   password: ${MQ.PASSWORD}
+   queue: ${MQ.queue}
+   virtualHost: ${MQ.VIRTUALHOST}

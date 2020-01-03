@@ -1,0 +1,7 @@
+br\com\victor\jobmq\config\RabbitConfig.class
+br\com\victor\jobmq\JobmqApplication.class
+br\com\victor\jobmq\listener\Receiver.class
+br\com\victor\jobmq\service\UsuarioServiceImpl.class
+br\com\victor\jobmq\model\Usuario.class
+br\com\victor\jobmq\properties\JmsProperties.class
+br\com\victor\jobmq\service\UsuarioService.class
